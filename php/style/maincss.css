@@ -1,0 +1,19 @@
+.logo{
+	width: 100%;
+	background-color: rgb(70, 168, 240);
+	height: 250px;
+	font-size: 72px;
+	margin: 25px 0px 25px 0px;
+	padding: 75px 0px 0px 20px;
+}
+
+.logo a{
+	color: #000000;
+}
+
+.content{
+	min-width: 720px;
+	width: 90%;
+	margin: auto;
+}
+
